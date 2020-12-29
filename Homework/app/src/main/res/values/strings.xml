@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Homework</string>
+
+    <!-- Strings related to login -->
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="prompt_usename">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome "</string>
+    <string name="invalid_username">Please enter username</string>
+    <string name="invalid_password">Please enter password</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="no_internet">Please check your internet connection and try again</string>
+    <string name="msg_logout">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+</resources>
